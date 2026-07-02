@@ -1,0 +1,4 @@
+.DS_Store
+ Obsidian/
+*.pyc
+__pycache__/
